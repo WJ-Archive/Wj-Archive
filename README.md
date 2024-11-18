@@ -1,13 +1,11 @@
 ## Hi there 👋
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/WJ-Archive"
-    width="800"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/WJ-Archive"
+  width="600"
+  height="300"
+/>
 </a>
-  
-
 
 <!--
 **WJ-Archive/Wj-Archive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
